@@ -1,0 +1,55 @@
+.jt{
+    
+    height:191px;
+   
+}
+#pad{
+    padding-top: 5px;
+    padding-left: 5%;
+    
+    text-align: center;
+    
+}
+p{
+    font-size: large;
+}
+h1{
+    font-size: 55px;
+}
+
+    
+.hi{
+    color:#4b7cb8;
+    
+}
+body{
+    background-color: black;
+}
+.bo{
+    border:2px solid red;
+    height:200px;
+    
+}
+td{
+    height:155px;
+    width:145px;
+    
+    
+}
+.ind{ height:130px;
+      width:120px;
+      border:1px solid pink;
+      border-radius: 15px;
+    
+    margin:12px;
+    
+    
+}
+.button{
+    color: #4b7cb8;
+}
+
+
+table{
+    
+}
